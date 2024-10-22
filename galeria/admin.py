@@ -8,6 +8,9 @@ class ListantoFotografias(admin.ModelAdmin):
 
     list_display = ("id", "nome", "legenda")
     list_display_links = ("id", "nome", "legenda")
+    search_fields = ("nome",)
+
+
 
 
 
