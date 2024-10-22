@@ -1,4 +1,4 @@
-# ![Logo](https://via.placeholder.com/150) <!-- Substitua este link pela sua logo -->
+
 
 ## 👨‍💻 **Bruno Gomes**
 **Profissão:** Analista de Redes  
